@@ -312,7 +312,7 @@ TELEGRAM_BOT_TOKEN=...             # Telegram notifications
 ```bash
 # Clone and setup
 git clone <repo>
-cd "GOOGLE PROJECT"
+cd "Super_Manager"
 
 # Backend
 pip install -r requirements.txt
